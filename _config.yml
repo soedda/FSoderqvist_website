@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fsöderqvist LO.jpg"
+  avatar           : "fsöderqvist LO.png"
   name             : "Fredrik Söderqvist"
   pronouns         : # example: "she/her"  
   bio              : "Trade union economist, PhD"
