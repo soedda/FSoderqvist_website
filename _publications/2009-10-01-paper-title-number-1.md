@@ -1,6 +1,6 @@
 ---
 title: "Wage effects from employer concentration and collective bargaining in Swedish labor markets"
-collection: publications
+collection: dissertation
 category: manuscripts
 permalink: /publication/2024-06-12
 excerpt: 'Explores how wage bargaining is affected by employer concentration and labor market institutions in Sweden'
