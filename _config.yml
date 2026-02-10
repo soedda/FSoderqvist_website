@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  workingpapers:
+    title: 'Working Papers'
   dissertation:
     title: 'Dissertation Chapters'
 
