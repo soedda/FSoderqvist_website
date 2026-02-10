@@ -1,5 +1,5 @@
 ---
-title: "Has privatization improved the wage bargin of welfare workers?"
+title: "Chapter 4. Has privatization improved the wage bargin of welfare workers?"
 collection: publications
 category: dissertation
 permalink: /publication/2024-06-12
