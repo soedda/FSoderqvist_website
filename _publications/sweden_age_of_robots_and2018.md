@@ -8,5 +8,5 @@ date: 2018-06-21
 venue: 'Work in the digital age. Challenges of the fourth industrial revolution'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://policynetwork.progressivebritain.org/opinions/essays/sweden-will-history-lead-way-age-robots-platforms/'
-citation: 'Söderqvist, C.F. (2018). Sweden: will history lead the way in the age of robots and platforms. Work in the digital age. Challenges of the fourth industrial revolution, Oxford, Rowman & Littlefield (forthcoming).'
+citation: 'Söderqvist, C.F. (2018). Sweden: will history lead the way in the age of robots and platforms. Work in the digital age. Challenges of the fourth industrial revolution, Oxford, Rowman & Littlefield.'
 ---
