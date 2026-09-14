@@ -13,43 +13,29 @@ Not updated
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Industrial Economics, Blekinge Institute of Technology, 2024
+* Guest researcher, Institute for Work and Employment Research, MIT Sloan School of Management, 2019
+* MSc Economics, Uppsala University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Economist, Hotel and Restaurang Workers' Union, 2026-
+* Economist, The Swedish Trade Union Confederation (LO-Sweden), 2022-
+* Economist, Unionen, 2012-2021
+* Economist, The Swedish Competition Authority, 2012
+* Research assistant, Swedish University of Agricultural Sciences 2011
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Econometrics
+* R
+* Python
+* Research
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
