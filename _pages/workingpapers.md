@@ -9,6 +9,6 @@ redirect_from:
 
 ADD WORKING PAPERS HERE
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.workingpapers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
