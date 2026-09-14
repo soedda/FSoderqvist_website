@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Not updated 
+Last updated: 2026-09-14 
 
 Education
 ======
@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Economist, Hotel and Restaurang Workers' Union, 2026-
-* Economist, The Swedish Trade Union Confederation (LO-Sweden), 2022-
+* Economist, The Swedish Trade Union Confederation (LO-Sweden), 2022- (On leave)
 * Economist, Unionen, 2012-2021
 * Economist, The Swedish Competition Authority, 2012
 * Research assistant, Swedish University of Agricultural Sciences 2011
